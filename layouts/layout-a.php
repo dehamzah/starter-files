@@ -3,8 +3,8 @@
 <title>Layout A</title>
 <?php require($base."/inc/meta.php"); ?>
 <!--[if lt IE 9]><script src="/a/j/html5shiv.js"></script><![endif]-->
-<link href="../a/c/screen.css" rel="stylesheet" media="screen, projection" type="text/css" />
-<link href="../a/c/print.css" rel="stylesheet" media="print" type="text/css" />
+<link href="../assets/css/screen.css" rel="stylesheet" media="screen, projection" type="text/css" />
+<link href="../assets/css/print.css" rel="stylesheet" media="print" type="text/css" />
 <style>
   .main { outline: 1px dotted rgba(126, 62, 104, 1); position: relative; }
   .main:after { position: absolute; top: -1em; left: -1em; padding: 10px; color: #fff; content: ".layout-a .main"; background: rgba(126, 62, 104, 0.7);}
